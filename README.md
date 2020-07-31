@@ -5,7 +5,7 @@
 Advance Real Retail and Food Services Sales | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-ix3vjqngmmroe](https://aws.amazon.com/marketplace/pp/prodview-ix3vjqngmmroe).
 
 ## Main Overview
 
