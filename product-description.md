@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on sales for the retail and food service industries. The sales are reflected as millions of Consumer Price Index(CPI) adjudsted dollars for the years 1982-1984, which means the data is adjusted for inflation.
+This release contains information on sales for the retail and food service industries. The sales are reflected as millions of Consumer Price Index (CPI) adjudsted dollars for the years 1982-1984, which means the data is adjusted for inflation.
 
 The included data is provided by the Federal Reserve Bank of St. Louis' FRED (Federal Reserve Economic Data) platform, which contains information on over 700,000+ series related to historical economic data. If you are interested in learning more or want to explore other datasets maintained on FRED, visit the [FRED homepage](https://fred.stlouisfed.org/).
 
