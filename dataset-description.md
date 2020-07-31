@@ -1,0 +1,1 @@
+This release contains information on sales for the retail and food service industries. The sales are reflected as millions of Consumer Price Index (CPI) adjudsted dollars for the years 1982-1984, which means the data is adjusted for inflation.
